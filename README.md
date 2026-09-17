@@ -76,9 +76,6 @@ cd xox
 npm start
 ```
 
-Open [http://127.0.0.1:3000](http://127.0.0.1:3000) and play. Or just hit
-[**playxox.onrender.com**](https://playxox.onrender.com) — it's already live.
-
 <br>
 
 ---
