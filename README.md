@@ -1,63 +1,129 @@
-# XOX ✖️⭕
+<div align="center">
 
-Some say tic-tac-toe ended in elementary school. They clearly haven't stepped on *this* board.
+<img src="https://raw.githubusercontent.com/nish0x/xox/master/public/logo.svg" alt="XOX Logo" width="120" />
 
-XOX takes the simplest game ever invented and dresses it up like a championship sport — 3D avatars, dramatic matchmaking, a battlefield of light, and thirty-plus familiar faces waiting to humble you.
+<br>
 
----
+# <b>XOX</b>
 
-## 💎 What is XOX?
+<p>
+  <span><img src="https://img.shields.io/badge/tagline-are%20you%20ready%20to%20play%3F-ff4444?style=for-the-badge" alt="Tagline"/></span>
+</p>
 
-It's tic-tac-toe, but:
+<br>
 
-- **Cinematic.** Forget paper and pencil. This is a whole arena of smoke, glow, and drama.
-- **Personal.** You hop in, build a 3D avatar that looks like you, and get matched against your crew.
-- **Quick.** Ninety seconds. One winner. Zero mercy.
+<a href="https://github.com/nish0x/xox" target="_blank"><img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"></a>
+<a href="https://xox.makemepulse.com" target="_blank"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"></a>
+<a href="https://playxox.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Online-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Online"></a>
+<a href="https://github.com/nish0x/xox" target="_blank"><img src="https://img.shields.io/badge/made%20by-nishanth-green?style=for-the-badge" alt="Made by nishanth"></a>
 
-No downloads. No signup. No "your turn" notifications from a stranger on the internet. Just you, the board, and bragging rights on the line.
+<br>
 
----
+<a href="https://playxox.onrender.com" target="_blank"><img src="https://img.shields.io/badge/PLAY-NOW-ff4444?style=for-the-badge&logo=playstation&logoColor=white" alt="Play"></a>
+<a href="https://buymeacoffee.com/nish0x" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
-## 🎯 Features
-
-|  |  |
-|---|---|
-| ⚡ **Matchmaking** | Pair up against someone from the crew in seconds |
-| 🧬 **Avatar Studio** | Faces, hair, beards, hats, jewelry — mix and match a 3D twin |
-| 🥊 **Head-to-Head** | Real showdowns on a full WebGL battlefield |
-| 🔊 **Full Sound** | Every tap, hit, and win hits different when it has sound design |
-| 🔁 **Infinite Rematches** | Sore losers welcome — that's how rivalries are born |
+</div>
 
 ---
 
-## 🕹️ How to Play
+<br>
 
-1. **Queue up** — the arena picks your opponent for you.
-2. **Make yourself** — dress up your avatar until it's unmistakably you.
-3. **Draw first blood** — claim a square. Any square.
-4. **Get three in a row** — horizontal, vertical, diagonal. That's the whole job.
-5. **Win. Loudly. Repeat.**
+## :video_game: What is XOX?
 
-*A single game takes less time than waiting for your coffee. The rematch, however, is eternal.*
+**XOX** is a cinematic take on tic-tac-toe. Build a 3D avatar that looks like you,
+get matched against someone from the crew, and battle it out on a glowing WebGL arena —
+three in a row has never been this dramatic.
 
----
-
-## 👥 Facing the Crew
-
-Your arch-rivals, awaiting you on the board:
-
-**Abilash · Abinesh · Abish · Abishek · Ajisha · Akshaya · Aswin · Babin · Bibin · Blessy · Brayden · Diviny · Gino · Gokul · Joshiha · Joshna · Marshel · Methun · Monish · Nigash · Ranjith · Sahana · Samuel · Sanjay · Sharon · Subin · Sujiin · TC · Varsha · Vignesh**
-
-Some are friendly. Some are suspiciously good at grids. Beat them all and become the undisputed champion of the arena.
+<br>
 
 ---
 
-## ▶️ Start Playing
+<br>
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nish0x/xox/master/public/share-1.png" alt="XOX" width="700"/>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## ✨ Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="340"><h3>⚡ Matchmaking</h3>Randomly paired against someone from the crew in seconds</td>
+      <td align="center" width="340"><h3>🧬 Avatar Studio</h3>Faces, hair, beards, hats, jewelry — mix and match a 3D twin</td>
+    </tr>
+    <tr>
+      <td align="center" width="340"><h3>🥊 Head-to-Head</h3>Real showdowns on a full WebGL battlefield</td>
+      <td align="center" width="340"><h3>🔁 Rematches</h3>No sore losers allowed — that's how rivalries are born</td>
+    </tr>
+    <tr>
+      <td align="center" width="340"><h3>🎮 One Command</h3>Jump in and play. No downloads, no signup, no nonsense</td>
+      <td align="center" width="340"><h3>👥 30+ Opponents</h3>Beat the whole roster and claim the bragging rights</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## :rocket: Quick Start
 
 ```bash
+# Clone
+git clone https://github.com/nish0x/xox.git
+cd xox
+
+# Serve
 npm start
 ```
 
-Then open your browser and answer the only question that matters.
+Open [http://127.0.0.1:3000](http://127.0.0.1:3000) and play. Or just hit
+[**playxox.onrender.com**](https://playxox.onrender.com) — it's already live.
 
-> **Are you ready to play?**
+<br>
+
+---
+
+<br>
+
+## 👥 Your Opponents
+
+You might face any of these legends on the board:
+
+**Abilash · Abinesh · Abish · Abishek · Ajisha · Akshaya · Aswin · Babin · Bibin · Blessy · Brayden · Diviny · Gino · Gokul · Joshiha · Joshna · Marshel · Methun · Monish · Nigash · Ranjith · Sahana · Samuel · Sanjay · Sharon · Subin · Sujiin · TC · Varsha · Vignesh**
+
+Win against them all. Become the undisputed champion of the arena.
+
+<br>
+
+---
+
+<br>
+
+## :heart: Thanks
+
+- **makemepulse** — the original XOX experience and game engine ([xox.makemepulse.com](https://xox.makemepulse.com))
+- **Adrien L, Antony M, and the makemepulse team** — the crafted characters and artistry
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+**Made with :purple_heart: and WebGL**
+
+</div>
