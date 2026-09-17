@@ -1,53 +1,36 @@
-# XOX by nishanth
+# XOX
 
-A personalized version of [XOX](https://xox.makemepulse.com), the interactive tic-tac-toe experience originally built by makemepulse — same game, same engine, customized with a different team roster and branding.
+A fast, interactive tic-tac-toe game where you get matched against a teammate, customize your 3D avatar, and battle it out on a WebGL-powered board.
 
-## What this actually is
+## How to Play
 
-This isn't built from Vue/Vite source in this repo — `public/` is the site's **built, static output** (a bundled WebGL/Canvas app using Vue 3 + GSAP under the hood), served as-is by a small local server. Customization (the team roster, names, avatars) is done by editing that built output directly, since no separate source project exists here.
+1. **Get matched** — the game randomly pairs you against someone from the team roster
+2. **Build your avatar** — customize your look with faces, hair, beards, hats, and accessories
+3. **Play** — classic tic-tac-toe, first to get three in a row wins
+4. **Rematch** — jump right back in for another round
 
-## Project Structure
-
-```
-xox/
-├── public/                       # the static site — served byte-for-byte as-is
-│   ├── index.html
-│   ├── logo.svg, share-1.png
-│   ├── favicon/
-│   └── assets/
-│       ├── js/                   # main.js (app bundle) + per-feature icon chunks
-│       ├── css/                  # main.css
-│       ├── fonts/                # woff2 fonts (Bangers, Poppins, aaksimosi)
-│       ├── images/                # avatar-configurator art, UI sprites, backgrounds
-│       ├── models/               # .glb 3D models (avatar, grid, lightning, shapes)
-│       ├── audio/                # game sound effects
-│       └── data/                 # font atlas manifests, audio sprite map
-└── src/
-    └── server/
-        ├── index.mjs             # zero-dependency static HTTP server
-        └── mime-types.mjs        # extension → Content-Type table
-```
-
-## Commands
+## Get Running
 
 ```bash
-npm start        # serve on http://127.0.0.1:3000
-npm run dev      # same as start
-npm run preview  # same as start
+npm start
 ```
 
-`PORT` and `HOST` env vars override the defaults, e.g. `PORT=5174 npm start`.
+Opens at [http://127.0.0.1:3000](http://127.0.0.1:3000). Override with `PORT` and `HOST` env vars.
 
-## Customizing the roster
+## Tech
 
-The team roster lives in `public/assets/js/main.js` as a plain array of entries:
+- Custom WebGL/Canvas engine with 3D scenes
+- Mix-and-match 3D avatar system
+- GSAP animations
+- Zero-dependency static server
 
-```js
-{ id: 18, name: "Abishek", role: "ep", avatar: "F1:N1:ST3:E4::H4:B1:HT4::JT4:T2:HT2", opponentId: "abishek" }
-```
+## Adding a New Player
 
-- `name` — shown live (as real text) on the matchmaking reveal screen.
-- `avatar` — a colon-separated code for face/eye/nose/hair/beard/jewelry/detail/hat parts, each referencing an image in `assets/images/` (e.g. `F1` → face option 1, `B0` → beard option 0).
-- `opponentId` — links to that person's face-icon SVG (`icon-versus-<opponentId>.js` / `_b` variant) and their i18n "fun facts" entry used during matchmaking.
+Each player needs three things:
 
-The in-game "YOU ⚡ [NAME]" banner is rendered dynamically from the `name` field (not a pre-drawn image), so adding a new person only requires a roster entry, an avatar code, and a face icon — no hand-drawn name artwork needed.
+1. **A roster entry** in `public/assets/js/main.js`:
+   ```js
+   { id: 18, name: "Abishek", role: "ep", avatar: "F1:N1:ST3:E4::H4:B1:HT4::JT4:T2:HT2", opponentId: "abishek" }
+   ```
+2. **A face icon** — `icon-versus-<opponentId>.js` (+ `_b` variant) in `public/assets/js/`
+3. **An avatar code** — colon-separated parts mapping to images in `public/assets/images/` (`F1` = face, `H4` = hair, `B1` = beard, etc.)
