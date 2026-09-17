@@ -99,17 +99,6 @@ Win against them all. Become the undisputed champion of the arena.
 
 <br>
 
-## :heart: Thanks
-
-- **makemepulse** — the original XOX experience and game engine ([xox.makemepulse.com](https://xox.makemepulse.com))
-- **Adrien L, Antony M, and the makemepulse team** — the crafted characters and artistry
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 **Made with :purple_heart: and WebGL**
