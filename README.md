@@ -40,18 +40,6 @@ three in a row has never been this dramatic.
 
 <br>
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nish0x/xox/master/public/share-1.png" alt="XOX" width="700"/>
-</div>
-
-<br>
-
----
-
-<br>
-
 ## ✨ Features
 
 <div align="center">
