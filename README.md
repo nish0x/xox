@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/nish0x/xox/master/public/logo.svg?v=2" alt="XOX Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/nish0x/xox/master/public/logo.svg?v=2" alt="XOX Logo" width="200" />
 
 <br>
 
