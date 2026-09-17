@@ -85,20 +85,6 @@ Open [http://127.0.0.1:3000](http://127.0.0.1:3000) and play. Or just hit
 
 <br>
 
-## 👥 Your Opponents
-
-You might face any of these legends on the board:
-
-**Abilash · Abinesh · Abish · Abishek · Ajisha · Akshaya · Aswin · Babin · Bibin · Blessy · Brayden · Diviny · Gino · Gokul · Joshiha · Joshna · Marshel · Methun · Monish · Nigash · Ranjith · Sahana · Samuel · Sanjay · Sharon · Subin · Sujiin · TC · Varsha · Vignesh**
-
-Win against them all. Become the undisputed champion of the arena.
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 **Made with :purple_heart: and WebGL**
