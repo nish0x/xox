@@ -1,36 +1,41 @@
-# XOX
+# XOX ✖️⭕
 
-A fast, interactive tic-tac-toe game where you get matched against a teammate, customize your 3D avatar, and battle it out on a WebGL-powered board.
+Tic-tac-toe, but make it *cinematic*.
 
-## How to Play
+Get matched against the squad, sculpt a 3D avatar of yourself, then step onto a glowing arena and throw down the most dramatic game of tic-tac-toe you've ever seen.
 
-1. **Get matched** — the game randomly pairs you against someone from the team roster
-2. **Build your avatar** — customize your look with faces, hair, beards, hats, and accessories
-3. **Play** — classic tic-tac-toe, first to get three in a row wins
-4. **Rematch** — jump right back in for another round
+---
 
-## Get Running
+## 🕹️ The Experience
+
+**1. Get Matched**
+Someone from the crew is about to become your mortal enemy-for-90-seconds. The arena picks your opponent — from Abilash to Varsha, everyone's fair game.
+
+**2. Build Your Avatar**
+Beard? Brim? Statement jewelry? Mix and match faces, hair, hats, and accessories until your 3D twin looks *exactly* like you (or your evil twin).
+
+**3. The Showdown**
+Three in a row. That's it. That's the whole game. But on this stage, a single line feels like a heavyweight title fight.
+
+**4. Rematch**
+No sore losers allowed. Go again.
+
+---
+
+## 🚀 Play It
 
 ```bash
 npm start
 ```
 
-Opens at [http://127.0.0.1:3000](http://127.0.0.1:3000). Override with `PORT` and `HOST` env vars.
+That's it. Pull up, queue in, pick your look, and protect your reputation.
 
-## Tech
+---
 
-- Custom WebGL/Canvas engine with 3D scenes
-- Mix-and-match 3D avatar system
-- GSAP animations
-- Zero-dependency static server
+## 👥 The Roster
 
-## Adding a New Player
+You might face one of these legends:
 
-Each player needs three things:
+Abilash, Abinesh, Abish, Abishek, Ajisha, Akshaya, Aswin, Babin, Bibin, Blessy, Brayden, Diviny, Gino, Gokul, Joshiha, Joshna, Marshel, Methun, Monish, Nigash, Ranjith, Sahana, Samuel, Sanjay, Sharon, Subin, Sujiin, TC, Varsha, Vignesh
 
-1. **A roster entry** in `public/assets/js/main.js`:
-   ```js
-   { id: 18, name: "Abishek", role: "ep", avatar: "F1:N1:ST3:E4::H4:B1:HT4::JT4:T2:HT2", opponentId: "abishek" }
-   ```
-2. **A face icon** — `icon-versus-<opponentId>.js` (+ `_b` variant) in `public/assets/js/`
-3. **An avatar code** — colon-separated parts mapping to images in `public/assets/images/` (`F1` = face, `H4` = hair, `B1` = beard, etc.)
+Win against them all. Collect the bragging rights.
