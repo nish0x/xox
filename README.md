@@ -6,17 +6,6 @@
 
 # <b>XOX</b>
 
-<p>
-  <span><img src="https://img.shields.io/badge/tagline-are%20you%20ready%20to%20play%3F-ff4444?style=for-the-badge" alt="Tagline"/></span>
-</p>
-
-<br>
-
-<a href="https://github.com/nish0x/xox" target="_blank"><img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"></a>
-<a href="https://xox.makemepulse.com" target="_blank"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"></a>
-<a href="https://playxox.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Online-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Online"></a>
-<a href="https://github.com/nish0x/xox" target="_blank"><img src="https://img.shields.io/badge/made%20by-nishanth-green?style=for-the-badge" alt="Made by nishanth"></a>
-
 <br>
 
 <a href="https://playxox.onrender.com" target="_blank"><img src="https://img.shields.io/badge/PLAY-NOW-ff4444?style=for-the-badge&logo=playstation&logoColor=white" alt="Play"></a>
