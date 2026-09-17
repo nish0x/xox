@@ -3,15 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Exact local copy of the XOX by makemepulse experience.",
+  "description": "Exact local copy of the XOX by nishanth experience.",
   "scripts": {
     "start": "node src/server/index.mjs",
     "dev": "node src/server/index.mjs",
-    "preview": "node src/server/index.mjs",
-    "mirror": "node src/mirror/crawl.mjs",
-    "verify": "node src/mirror/verify.mjs"
-  },
-  "devDependencies": {
-    "prettier": "3.9.7"
+    "preview": "node src/server/index.mjs"
   }
 }

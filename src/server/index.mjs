@@ -33,7 +33,7 @@ const server = createServer(async (req, res) => {
         res.writeHead(200, {
           'Content-Type': MIME['.html'],
           'Content-Length': (await stat(index)).size,
-          'Cache-Control': 'no-cache',
+          'Cache-Control': 'no-store',
         })
         createReadStream(index).pipe(res)
         return
@@ -52,7 +52,7 @@ const server = createServer(async (req, res) => {
         'Content-Type': type,
         'Content-Encoding': 'gzip',
         'Content-Length': (await stat(gzPath)).size,
-        'Cache-Control': 'no-cache',
+        'Cache-Control': 'no-store',
       })
       createReadStream(gzPath).pipe(res)
       return
@@ -61,7 +61,7 @@ const server = createServer(async (req, res) => {
     res.writeHead(200, {
       'Content-Type': type,
       'Content-Length': info.size,
-      'Cache-Control': 'no-cache',
+      'Cache-Control': 'no-store',
     })
     createReadStream(filePath).pipe(res)
   } catch (e) {

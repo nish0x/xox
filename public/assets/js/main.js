@@ -34527,213 +34527,213 @@ class t7 {
 const hl = [
   {
     id: 0,
-    name: "Adrien",
+    name: "Abinesh",
     role: "designer",
     avatar: "F1:N1:ST1:E9:D0:H5:B6:HT3:J3:JT1:T2:HT4",
-    opponentId: "adrienl",
+    opponentId: "abinesh",
   },
   {
     id: 1,
-    name: "Anthony",
+    name: "Babin",
     role: "designer",
     avatar: "F1:N1:ST3:E0:D5:H3:B2:HT6::JT0:T2:HT0",
-    opponentId: "anthonym",
+    opponentId: "babin",
   },
   {
     id: 2,
-    name: "Antoine",
+    name: "Bibin",
     role: "CTO",
     avatar: "F1:N1:ST1:E8:D0:H4::HT4:J0:JT0:T0:HT0",
-    opponentId: "antoineu",
+    opponentId: "bibin",
   },
   {
     id: 3,
-    name: "Aurélien",
+    name: "Vignesh",
     role: "3dartist",
     avatar: "F2:N2:ST3:E2:D3:H13:B6:HT4:J2:JT1:T0:HT0",
-    opponentId: "aurelienc",
+    opponentId: "vignesh",
   },
   {
     id: 4,
-    name: "Camille",
+    name: "Sahana",
     role: "strategist",
     avatar: "F1:N1:ST1:E4:D1:H8::HT1:J0:JT0:T0:HT0",
-    opponentId: "camillec",
+    opponentId: "sahana",
   },
   {
     id: 5,
-    name: "Cassandre",
+    name: "Diviny",
     role: "ep",
     avatar: "F1:N3:ST1:E3::H14::HT7::JT2:T0:HT1",
-    opponentId: "cassandreb",
+    opponentId: "diviny",
   },
   {
     id: 6,
-    name: "Connor",
+    name: "Gino",
     role: "developer",
     avatar: "F1:N1:ST1:E1:D4:H4:B7:HT0:J0:JT0:T1:HT4",
-    opponentId: "connorh",
+    opponentId: "gino",
   },
   {
     id: 7,
-    name: "Florentin",
+    name: "Subin",
     role: "creadev",
     avatar: "F1:N1:ST1:E0:D0:H5:B0:HT4:J0:JT0:T0:HT0",
-    opponentId: "florentinm",
+    opponentId: "subin",
   },
   {
     id: 8,
-    name: "François",
+    name: "Ranjith",
     role: "producer",
     avatar: "F1:N1:ST1:E9::H4:B9:HT5:J1:JT1::HT2",
-    opponentId: "francoisc",
+    opponentId: "ranjith",
   },
   {
     id: 9,
-    name: "Françoise",
+    name: "Blessy",
     role: "om",
     avatar: "F1:N1:ST3:E4:D2:H11:B0:HT4:J0:JT0:T0:HT0",
-    opponentId: "francoises",
+    opponentId: "blessy",
   },
   {
     id: 10,
-    name: "Gauthier",
+    name: "Methun",
     role: "creadev",
     avatar: "F2:N4:ST2:E0:D2:H4:B1:HT3::JT3::HT0",
-    opponentId: "gauthierp",
+    opponentId: "methun",
   },
   {
     id: 11,
-    name: "Gregory",
+    name: "Monish",
     role: "manager",
     avatar: "F1:N1:ST1:E7::H2:B7:HT9::JT1::HT2",
-    opponentId: "gregoryb",
+    opponentId: "monish",
   },
   {
     id: 12,
-    name: "Hélène",
+    name: "Joshna",
     role: "producer",
     avatar: "F1:N4:ST2:E9:D1:H8::HT4:J4:JT0::HT1",
-    opponentId: "helenet",
+    opponentId: "joshna",
   },
   {
     id: 13,
-    name: "Jérémie",
+    name: "Aswin",
     role: "backend",
     avatar: "F3:N2:ST1:E1:D1:H6:B4:HT3::JT3::HT3",
-    opponentId: "jeremiec",
+    opponentId: "aswin",
   },
   {
     id: 14,
-    name: "Jérome",
+    name: "Brayden",
     role: "designer",
     avatar: "F1:N1:ST1:E9:D5:H4:B1:HT6:J0:JT0::HT0",
-    opponentId: "jeromel",
+    opponentId: "brayden",
   },
   {
     id: 15,
-    name: "Julien",
+    name: "Sharon",
     role: "developer",
     avatar: "F5:N1:ST1:E0::H4:B1:HT3::JT4::HT2",
-    opponentId: "julienv",
+    opponentId: "sharon",
   },
   {
     id: 16,
-    name: "Manon",
+    name: "Joshiha",
     role: "designer",
     avatar: "F1:N3:ST1:E0:D1:H11:B0:HT4:J2:JT1:T0:HT1",
-    opponentId: "manonb",
+    opponentId: "joshiha",
   },
   {
     id: 17,
-    name: "Marie Elise",
+    name: "Ajisha",
     role: "sales",
     avatar: "F2:N3:ST1:E2:D4:H9:B0:HT8:J3:JT4:T3:HT3",
-    opponentId: "marieelisea",
+    opponentId: "ajisha",
   },
   {
     id: 18,
-    name: "Mathias",
+    name: "Abishek",
     role: "ep",
     avatar: "F1:N1:ST3:E4::H4:B1:HT4::JT4:T2:HT2",
-    opponentId: "mathiasr",
+    opponentId: "abishek",
   },
   {
     id: 19,
-    name: "Nicolas",
+    name: "Abilash",
     role: "CCO",
     avatar: "F1:N1:ST3:E0::H4:B4:HT4::JT0::HT0",
-    opponentId: "nicolasr",
+    opponentId: "abilash",
   },
   {
     id: 20,
-    name: "Nils",
+    name: "Samuel",
     role: "creadev",
     avatar: "F1:N1:ST1:E1:D4:H4::HT3::JT0::HT0",
-    opponentId: "nilsl",
+    opponentId: "samuel",
   },
   {
     id: 21,
-    name: "Pierre",
+    name: "Marshel",
     role: "creadev",
     avatar: "F1:N1:ST1:E0:D4:H4:B2:HT2:J0:JT0:T0:HT0",
-    opponentId: "pierrel",
+    opponentId: "marshel",
   },
   {
     id: 22,
-    name: "Rémi",
+    name: "Sujiin",
     role: "developer",
     avatar: "F4:N1:ST3:E2:D3:H1:B8:HT4::JT0:T4:HT1",
-    opponentId: "remib",
+    opponentId: "sujiin",
   },
   {
     id: 23,
-    name: "Romain",
+    name: "Abish",
     role: "designer",
     avatar: "F1:N1:ST1:E6:D1:H0:B9:HT7:J2:JT3:T4:HT2",
-    opponentId: "romainp",
+    opponentId: "abish",
   },
   {
     id: 24,
-    name: "Sacha",
+    name: "TC",
     role: "producer",
     avatar: "F1:N2:ST1:E1:D5:H5:B2:HT3:J2:JT0:T1:HT2",
-    opponentId: "sachag",
+    opponentId: "tc",
   },
   {
     id: 25,
-    name: "Sarah",
+    name: "Varsha",
     role: "CGO",
     avatar: "F1:N1:ST1:E3:D4:H10::HT1:J4:JT2:T0:HT1",
-    opponentId: "sarahc",
+    opponentId: "varsha",
   },
   {
     id: 26,
-    name: "Solène",
+    name: "Akshaya",
     role: "designer",
     avatar: "F1:N1:ST1:E4:D4:H10:B0:HT8:J5:JT4:T0:HT0",
-    opponentId: "solener",
+    opponentId: "akshaya",
   },
   {
     id: 27,
-    name: "Thomas",
+    name: "Gokul",
     role: "designer",
     avatar: "F2:N1:ST3:E1::H12:B2:HT3::JT0:T4:HT1",
-    opponentId: "thomasr",
+    opponentId: "gokul",
   },
   {
     id: 28,
-    name: "Valentin",
+    name: "Sanjay",
     role: "producer",
     avatar: "F1:N3:ST1:E0:D5:H4:B1:HT7::JT2::HT4",
-    opponentId: "valentinm",
+    opponentId: "sanjay",
   },
   {
     id: 29,
-    name: "Vincent",
+    name: "Nigash",
     role: "developer",
     avatar: "F2:N1:ST1:E8:D4:H11:B8:HT2:J3:JT1:T4:HT1",
-    opponentId: "vincents",
+    opponentId: "nigash",
   },
 ];
 function r7(r) {
@@ -37907,7 +37907,7 @@ const a0 = (r) => r && typeof r == "object" && !Array.isArray(r),
     {
       en: {
         meta: {
-          title: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "XOX by makemepulse" } },
+          title: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "XOX by nishanth" } },
           description: {
             t: 0,
             b: {
@@ -37941,7 +37941,7 @@ const a0 = (r) => r && typeof r == "object" && !Array.isArray(r),
             b: {
               t: 2,
               i: [{ t: 3 }],
-              s: "Craft your avatar, take on the makemepulse team in tic-tac-BOOM battles and share your custom profile picture to flex. Ready, set, XOX!",
+              s: "Craft your avatar, take on the nishanth's team in tic-tac-BOOM battles and share your custom profile picture to flex. Ready, set, XOX!",
             },
           },
           start: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Let's start" } },
@@ -37957,16 +37957,7 @@ const a0 = (r) => r && typeof r == "object" && !Array.isArray(r),
             b: { t: 2, i: [{ t: 3 }], s: "Meet The Team" },
           },
           restart: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Play again !" } },
-          share: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Share" } },
           download: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "My Avatar" } },
-          "link-copied": {
-            t: 0,
-            b: {
-              t: 2,
-              i: [{ t: 3 }],
-              s: "The link is copied to the clipboard",
-            },
-          },
         },
         team: {
           close: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Close" } },
@@ -38013,8 +38004,8 @@ Nothing more.`,
           deny: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Deny" } },
           yummy: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Yum yum!" } },
         },
-        nicolasr: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Nicolas" } },
+        abilash: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Abilash" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *co-founder* <br/>*& CCO*" },
@@ -38052,8 +38043,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I laugh <br/>very easily." },
           },
         },
-        antoineu: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Antoine" } },
+        bibin: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Bibin" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *co-founder* <br/>*& CTO*" },
@@ -38083,8 +38074,8 @@ Nothing more.`,
             },
           },
         },
-        pierrel: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Pierre" } },
+        marshel: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Marshel" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *creative* <br/>*developer*" },
@@ -38110,8 +38101,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I’m bad at <br/>remembering names." },
           },
         },
-        gregoryb: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Greg" } },
+        monish: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Monish" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *head* <br/>*of production*" },
@@ -38146,8 +38137,8 @@ Nothing more.`,
             },
           },
         },
-        florentinm: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Flo" } },
+        subin: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Subin" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *creative* <br/>*developer*" },
@@ -38189,8 +38180,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "FFX is the best one." },
           },
         },
-        mathiasr: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Mathias" } },
+        abishek: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Abishek" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *executive* <br/>*producer*" },
@@ -38232,8 +38223,8 @@ Nothing more.`,
             },
           },
         },
-        sarahc: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sarah C." } },
+        varsha: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Varsha" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *chief* <br/>*growth officer*" },
@@ -38267,8 +38258,8 @@ Nothing more.`,
             },
           },
         },
-        francoisc: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Francois" } },
+        ranjith: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Ranjith" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *producer*" },
@@ -38306,8 +38297,8 @@ Nothing more.`,
             },
           },
         },
-        romainp: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Romain" } },
+        abish: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Abish" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38334,8 +38325,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "Crafting is the key." },
           },
         },
-        solener: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Solene" } },
+        akshaya: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Akshaya" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38370,8 +38361,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "Gymrat… <br/>Or just Parisianrat." },
           },
         },
-        anthonym: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Anthony" } },
+        babin: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Babin" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38413,8 +38404,8 @@ Nothing more.`,
             },
           },
         },
-        gauthierp: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Gauthier" } },
+        methun: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Methun" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Creative* <br/>*developer*" },
@@ -38452,8 +38443,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I'm a <br/>city councillor." },
           },
         },
-        helenet: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Helene" } },
+        joshna: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Joshna" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Producer*" },
@@ -38488,8 +38479,8 @@ Nothing more.`,
             },
           },
         },
-        francoises: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Francoise" } },
+        blessy: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Blessy" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Office manager*" },
@@ -38519,8 +38510,8 @@ Nothing more.`,
             },
           },
         },
-        jeromel: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Jerome" } },
+        brayden: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Brayden" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38543,8 +38534,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I always find a crafty solution" },
           },
         },
-        adrienl: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Adrien" } },
+        abinesh: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Abinesh" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38582,12 +38573,12 @@ Nothing more.`,
             b: {
               t: 2,
               i: [{ t: 3 }],
-              s: "Did you know Helene's <br/> favorite fruit is mango? <br/> Crazy huh.",
+              s: "Did you know Joshna's <br/> favorite fruit is mango? <br/> Crazy huh.",
             },
           },
         },
-        thomasr: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Thomas" } },
+        gokul: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Gokul" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38615,8 +38606,8 @@ Nothing more.`,
           "fact-4": { t: 0, b: { t: 2, i: [{ t: 3 }], s: "I love surfing." } },
           "fact-5": { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Selamat pagi!" } },
         },
-        remib: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Remi" } },
+        sujiin: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sujiin" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Developer*" },
@@ -38642,8 +38633,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "Please ask <br/>stupid questions." },
           },
         },
-        julienv: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Julien" } },
+        sharon: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sharon" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Developer*" },
@@ -38673,8 +38664,8 @@ Nothing more.`,
             },
           },
         },
-        connorh: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Connor" } },
+        gino: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Gino" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Developer*" },
@@ -38705,8 +38696,8 @@ Nothing more.`,
           },
           "fact-5": { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Swords are cool." } },
         },
-        sachag: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sacha" } },
+        tc: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "TC" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Producer*" },
@@ -38741,8 +38732,8 @@ Nothing more.`,
             },
           },
         },
-        vincents: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Vincent" } },
+        nigash: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Nigash" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Boring* <br/>*Developer*" },
@@ -38772,8 +38763,8 @@ Nothing more.`,
             },
           },
         },
-        nilsl: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Nils" } },
+        samuel: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Samuel" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Creative* <br/>*developer*" },
@@ -38811,8 +38802,8 @@ Nothing more.`,
             },
           },
         },
-        valentinm: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Valentin" } },
+        sanjay: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sanjay" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Producer*" },
@@ -38843,8 +38834,8 @@ Nothing more.`,
           },
           "fact-5": { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Former rower." } },
         },
-        manonb: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Manon" } },
+        joshiha: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Joshiha" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Art director*" },
@@ -38890,8 +38881,8 @@ Nothing more.`,
             },
           },
         },
-        aurelienc: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Aurelien" } },
+        vignesh: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Vignesh" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *3D Artist*" },
@@ -38933,8 +38924,8 @@ Nothing more.`,
             },
           },
         },
-        camillec: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Camille" } },
+        sahana: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Sahana" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Strategist*" },
@@ -38965,8 +38956,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I'm a football fan." },
           },
         },
-        jeremiec: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Jeremie" } },
+        aswin: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Aswin" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Back-end* <br/>*Developer*" },
@@ -39004,8 +38995,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I can read the matrix." },
           },
         },
-        marieelisea: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Marie Elise" } },
+        ajisha: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Ajisha" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *Growth & Partnership lead*" },
@@ -39035,8 +39026,8 @@ Nothing more.`,
             b: { t: 2, i: [{ t: 3 }], s: "I laugh very easily." },
           },
         },
-        cassandreb: {
-          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Cassandre" } },
+        diviny: {
+          name: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Diviny" } },
           "job-title": {
             t: 0,
             b: { t: 2, i: [{ t: 3 }], s: "The *executive producer*" },
@@ -40863,7 +40854,7 @@ class MN {
       this.playerAnimator.update(e),
       this.opponentAnimator.update(e),
       this.stroke.preRender(e),
-      this.root.setScale(5),
+      this.root.setScale(fh.value ? 3.5 : 5),
       this.root.updateWorldMatrix(!1));
   }
   render(e) {
@@ -41617,7 +41608,7 @@ class uB {
       ].map((t) => t.then(JN)),
     ),
       this.playerLabel.setText("YOUR", "TURN"),
-      this.computerLabel.setText("MMP'S", "TURN!"));
+      this.computerLabel.setText("XOX'S", "TURN!"));
     for (let t = 0; t < this.grid.cells.length; t++)
       this.pins.push(new YN(this.renderer, this.buttonsToGl));
     (await Promise.all(this.pins.map((t) => t.create())),
@@ -41806,7 +41797,7 @@ class uB {
   }
   placePinAt(e, t) {
     ((this.gameState = FN(this.gameState, e)),
-      xe(`EVENT_${Wi(this.gameState.currentPlayer) ? "mmp-plays" : "action"}`));
+      xe(`EVENT_${Wi(this.gameState.currentPlayer) ? "xox-plays" : "action"}`));
     const s = iB(this.pins),
       i = Wv(e),
       n = this.grid.getCell(i.x, i.y);
@@ -41976,7 +41967,7 @@ class i2 {
   async load(e) {
     const t = Le.get().fonts.get("bangers"),
       s = {
-        fontSize: fi.value ? 1.6 : 2,
+        fontSize: fi.value ? 1.3 : 2,
         maxWidth: fi.value ? 10 : 1,
         boxWidth: fi.value ? 10 : 1,
         lineHeight: 1,
@@ -41990,7 +41981,7 @@ class i2 {
     (this.left.text.setFont(t).setStyle(i),
       (this.left.node.x = -6),
       (this.left.node.z = -4),
-      fi.value && ((this.left.node.x = -0.5), (this.left.node.y = -6.5)),
+      fi.value && ((this.left.node.x = -0.5), (this.left.node.y = -5.5)),
       this.node.add(this.left.node),
       (this.right = new sr(this.gl)),
       this.right.text
@@ -44472,6 +44463,10 @@ const $t = () => ({ SplitText: Zg, gsap: X }),
             se(() => import("./icon-check.js"), [], import.meta.url),
           "../../assets/icons/comma.svg": () =>
             se(() => import("./icon-comma.js"), [], import.meta.url),
+          "../../assets/icons/coffee.svg": () =>
+            se(() => import("./icon-coffee.js"), [], import.meta.url),
+          "../../assets/icons/copy.svg": () =>
+            se(() => import("./icon-copy.js"), [], import.meta.url),
           "../../assets/icons/cross.svg": () =>
             se(() => import("./icon-cross.js"), [], import.meta.url),
           "../../assets/icons/download.svg": () =>
@@ -44482,8 +44477,6 @@ const $t = () => ({ SplitText: Zg, gsap: X }),
             se(() => import("./icon-logo-base.js"), [], import.meta.url),
           "../../assets/icons/randomize.svg": () =>
             se(() => import("./icon-randomize.js"), [], import.meta.url),
-          "../../assets/icons/share.svg": () =>
-            se(() => import("./icon-share.js"), [], import.meta.url),
           "../../assets/icons/versus-background.svg": () =>
             se(
               () => import("./icon-versus-background.js"),
@@ -44496,211 +44489,211 @@ const $t = () => ({ SplitText: Zg, gsap: X }),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/adrienl.svg": () =>
-            se(() => import("./icon-versus-adrienl.js"), [], import.meta.url),
-          "../../assets/icons/versus/adrienl_b.svg": () =>
-            se(() => import("./icon-versus-adrienl_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/anthonym.svg": () =>
-            se(() => import("./icon-versus-anthonym.js"), [], import.meta.url),
-          "../../assets/icons/versus/anthonym_b.svg": () =>
+          "../../assets/icons/versus/abinesh.svg": () =>
+            se(() => import("./icon-versus-abinesh.js"), [], import.meta.url),
+          "../../assets/icons/versus/abinesh_b.svg": () =>
+            se(() => import("./icon-versus-abinesh_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/babin.svg": () =>
+            se(() => import("./icon-versus-babin.js"), [], import.meta.url),
+          "../../assets/icons/versus/babin_b.svg": () =>
             se(
-              () => import("./icon-versus-anthonym_b.js"),
+              () => import("./icon-versus-babin_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/antoineu.svg": () =>
-            se(() => import("./icon-versus-antoineu.js"), [], import.meta.url),
-          "../../assets/icons/versus/antoineu_b.svg": () =>
+          "../../assets/icons/versus/bibin.svg": () =>
+            se(() => import("./icon-versus-bibin.js"), [], import.meta.url),
+          "../../assets/icons/versus/bibin_b.svg": () =>
             se(
-              () => import("./icon-versus-antoineu_b.js"),
+              () => import("./icon-versus-bibin_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/aurelienc.svg": () =>
-            se(() => import("./icon-versus-aurelienc.js"), [], import.meta.url),
-          "../../assets/icons/versus/aurelienc_b.svg": () =>
+          "../../assets/icons/versus/vignesh.svg": () =>
+            se(() => import("./icon-versus-vignesh.js"), [], import.meta.url),
+          "../../assets/icons/versus/vignesh_b.svg": () =>
             se(
-              () => import("./icon-versus-aurelienc_b.js"),
+              () => import("./icon-versus-vignesh_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/camillec.svg": () =>
-            se(() => import("./icon-versus-camillec.js"), [], import.meta.url),
-          "../../assets/icons/versus/camillec_b.svg": () =>
+          "../../assets/icons/versus/sahana.svg": () =>
+            se(() => import("./icon-versus-sahana.js"), [], import.meta.url),
+          "../../assets/icons/versus/sahana_b.svg": () =>
             se(
-              () => import("./icon-versus-camillec_b.js"),
+              () => import("./icon-versus-sahana_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/cassandreb.svg": () =>
+          "../../assets/icons/versus/diviny.svg": () =>
             se(
-              () => import("./icon-versus-cassandreb.js"),
+              () => import("./icon-versus-diviny.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/cassandreb_b.svg": () =>
+          "../../assets/icons/versus/diviny_b.svg": () =>
             se(
-              () => import("./icon-versus-cassandreb_b.js"),
+              () => import("./icon-versus-diviny_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/connorh.svg": () =>
-            se(() => import("./icon-versus-connorh.js"), [], import.meta.url),
-          "../../assets/icons/versus/connorh_b.svg": () =>
-            se(() => import("./icon-versus-connorh_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/gino.svg": () =>
+            se(() => import("./icon-versus-gino.js"), [], import.meta.url),
+          "../../assets/icons/versus/gino_b.svg": () =>
+            se(() => import("./icon-versus-gino_b.js"), [], import.meta.url),
           "../../assets/icons/versus/draw.svg": () =>
             se(() => import("./icon-versus-draw.js"), [], import.meta.url),
           "../../assets/icons/versus/draw_b.svg": () =>
             se(() => import("./icon-versus-draw_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/florentinm.svg": () =>
+          "../../assets/icons/versus/subin.svg": () =>
             se(
-              () => import("./icon-versus-florentinm.js"),
+              () => import("./icon-versus-subin.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/florentinm_b.svg": () =>
+          "../../assets/icons/versus/subin_b.svg": () =>
             se(
-              () => import("./icon-versus-florentinm_b.js"),
+              () => import("./icon-versus-subin_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/francoisc.svg": () =>
-            se(() => import("./icon-versus-francoisc.js"), [], import.meta.url),
-          "../../assets/icons/versus/francoisc_b.svg": () =>
+          "../../assets/icons/versus/ranjith.svg": () =>
+            se(() => import("./icon-versus-ranjith.js"), [], import.meta.url),
+          "../../assets/icons/versus/ranjith_b.svg": () =>
             se(
-              () => import("./icon-versus-francoisc_b.js"),
+              () => import("./icon-versus-ranjith_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/francoises.svg": () =>
+          "../../assets/icons/versus/blessy.svg": () =>
             se(
-              () => import("./icon-versus-francoises.js"),
+              () => import("./icon-versus-blessy.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/francoises_b.svg": () =>
+          "../../assets/icons/versus/blessy_b.svg": () =>
             se(
-              () => import("./icon-versus-francoises_b.js"),
+              () => import("./icon-versus-blessy_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/gauthierp.svg": () =>
-            se(() => import("./icon-versus-gauthierp.js"), [], import.meta.url),
-          "../../assets/icons/versus/gauthierp_b.svg": () =>
+          "../../assets/icons/versus/methun.svg": () =>
+            se(() => import("./icon-versus-methun.js"), [], import.meta.url),
+          "../../assets/icons/versus/methun_b.svg": () =>
             se(
-              () => import("./icon-versus-gauthierp_b.js"),
+              () => import("./icon-versus-methun_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/gregoryb.svg": () =>
-            se(() => import("./icon-versus-gregoryb.js"), [], import.meta.url),
-          "../../assets/icons/versus/gregoryb_b.svg": () =>
+          "../../assets/icons/versus/monish.svg": () =>
+            se(() => import("./icon-versus-monish.js"), [], import.meta.url),
+          "../../assets/icons/versus/monish_b.svg": () =>
             se(
-              () => import("./icon-versus-gregoryb_b.js"),
+              () => import("./icon-versus-monish_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/helenet.svg": () =>
-            se(() => import("./icon-versus-helenet.js"), [], import.meta.url),
-          "../../assets/icons/versus/helenet_b.svg": () =>
-            se(() => import("./icon-versus-helenet_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/jeremiec.svg": () =>
-            se(() => import("./icon-versus-jeremiec.js"), [], import.meta.url),
-          "../../assets/icons/versus/jeremiec_b.svg": () =>
+          "../../assets/icons/versus/joshna.svg": () =>
+            se(() => import("./icon-versus-joshna.js"), [], import.meta.url),
+          "../../assets/icons/versus/joshna_b.svg": () =>
+            se(() => import("./icon-versus-joshna_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/aswin.svg": () =>
+            se(() => import("./icon-versus-aswin.js"), [], import.meta.url),
+          "../../assets/icons/versus/aswin_b.svg": () =>
             se(
-              () => import("./icon-versus-jeremiec_b.js"),
+              () => import("./icon-versus-aswin_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/jeromel.svg": () =>
-            se(() => import("./icon-versus-jeromel.js"), [], import.meta.url),
-          "../../assets/icons/versus/jeromel_b.svg": () =>
-            se(() => import("./icon-versus-jeromel_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/julienv.svg": () =>
-            se(() => import("./icon-versus-julienv.js"), [], import.meta.url),
-          "../../assets/icons/versus/julienv_b.svg": () =>
-            se(() => import("./icon-versus-julienv_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/brayden.svg": () =>
+            se(() => import("./icon-versus-brayden.js"), [], import.meta.url),
+          "../../assets/icons/versus/brayden_b.svg": () =>
+            se(() => import("./icon-versus-brayden_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/sharon.svg": () =>
+            se(() => import("./icon-versus-sharon.js"), [], import.meta.url),
+          "../../assets/icons/versus/sharon_b.svg": () =>
+            se(() => import("./icon-versus-sharon_b.js"), [], import.meta.url),
           "../../assets/icons/versus/lose.svg": () =>
             se(() => import("./icon-versus-lose.js"), [], import.meta.url),
           "../../assets/icons/versus/lose_b.svg": () =>
             se(() => import("./icon-versus-lose_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/manonb.svg": () =>
-            se(() => import("./icon-versus-manonb.js"), [], import.meta.url),
-          "../../assets/icons/versus/manonb_b.svg": () =>
-            se(() => import("./icon-versus-manonb_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/marieelisea.svg": () =>
+          "../../assets/icons/versus/joshiha.svg": () =>
+            se(() => import("./icon-versus-joshiha.js"), [], import.meta.url),
+          "../../assets/icons/versus/joshiha_b.svg": () =>
+            se(() => import("./icon-versus-joshiha_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/ajisha.svg": () =>
             se(
-              () => import("./icon-versus-marieelisea.js"),
+              () => import("./icon-versus-ajisha.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/marieelisea_b.svg": () =>
+          "../../assets/icons/versus/ajisha_b.svg": () =>
             se(
-              () => import("./icon-versus-marieelisea_b.js"),
+              () => import("./icon-versus-ajisha_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/mathiasr.svg": () =>
-            se(() => import("./icon-versus-mathiasr.js"), [], import.meta.url),
-          "../../assets/icons/versus/mathiasr_b.svg": () =>
+          "../../assets/icons/versus/abishek.svg": () =>
+            se(() => import("./icon-versus-abishek.js"), [], import.meta.url),
+          "../../assets/icons/versus/abishek_b.svg": () =>
             se(
-              () => import("./icon-versus-mathiasr_b.js"),
+              () => import("./icon-versus-abishek_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/nicolasr.svg": () =>
-            se(() => import("./icon-versus-nicolasr.js"), [], import.meta.url),
-          "../../assets/icons/versus/nicolasr_b.svg": () =>
+          "../../assets/icons/versus/abilash.svg": () =>
+            se(() => import("./icon-versus-abilash.js"), [], import.meta.url),
+          "../../assets/icons/versus/abilash_b.svg": () =>
             se(
-              () => import("./icon-versus-nicolasr_b.js"),
+              () => import("./icon-versus-abilash_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/nilsl.svg": () =>
-            se(() => import("./icon-versus-nilsl.js"), [], import.meta.url),
-          "../../assets/icons/versus/nilsl_b.svg": () =>
-            se(() => import("./icon-versus-nilsl_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/pierrel.svg": () =>
-            se(() => import("./icon-versus-pierrel.js"), [], import.meta.url),
-          "../../assets/icons/versus/pierrel_b.svg": () =>
-            se(() => import("./icon-versus-pierrel_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/remib.svg": () =>
-            se(() => import("./icon-versus-remib.js"), [], import.meta.url),
-          "../../assets/icons/versus/remib_b.svg": () =>
-            se(() => import("./icon-versus-remib_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/romainp.svg": () =>
-            se(() => import("./icon-versus-romainp.js"), [], import.meta.url),
-          "../../assets/icons/versus/romainp_b.svg": () =>
-            se(() => import("./icon-versus-romainp_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/sachag.svg": () =>
-            se(() => import("./icon-versus-sachag.js"), [], import.meta.url),
-          "../../assets/icons/versus/sachag_b.svg": () =>
-            se(() => import("./icon-versus-sachag_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/sarahc.svg": () =>
-            se(() => import("./icon-versus-sarahc.js"), [], import.meta.url),
-          "../../assets/icons/versus/sarahc_b.svg": () =>
-            se(() => import("./icon-versus-sarahc_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/solener.svg": () =>
-            se(() => import("./icon-versus-solener.js"), [], import.meta.url),
-          "../../assets/icons/versus/solener_b.svg": () =>
-            se(() => import("./icon-versus-solener_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/thomasr.svg": () =>
-            se(() => import("./icon-versus-thomasr.js"), [], import.meta.url),
-          "../../assets/icons/versus/thomasr_b.svg": () =>
-            se(() => import("./icon-versus-thomasr_b.js"), [], import.meta.url),
-          "../../assets/icons/versus/valentinm.svg": () =>
-            se(() => import("./icon-versus-valentinm.js"), [], import.meta.url),
-          "../../assets/icons/versus/valentinm_b.svg": () =>
+          "../../assets/icons/versus/samuel.svg": () =>
+            se(() => import("./icon-versus-samuel.js"), [], import.meta.url),
+          "../../assets/icons/versus/samuel_b.svg": () =>
+            se(() => import("./icon-versus-samuel_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/marshel.svg": () =>
+            se(() => import("./icon-versus-marshel.js"), [], import.meta.url),
+          "../../assets/icons/versus/marshel_b.svg": () =>
+            se(() => import("./icon-versus-marshel_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/sujiin.svg": () =>
+            se(() => import("./icon-versus-sujiin.js"), [], import.meta.url),
+          "../../assets/icons/versus/sujiin_b.svg": () =>
+            se(() => import("./icon-versus-sujiin_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/abish.svg": () =>
+            se(() => import("./icon-versus-abish.js"), [], import.meta.url),
+          "../../assets/icons/versus/abish_b.svg": () =>
+            se(() => import("./icon-versus-abish_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/tc.svg": () =>
+            se(() => import("./icon-versus-tc.js"), [], import.meta.url),
+          "../../assets/icons/versus/tc_b.svg": () =>
+            se(() => import("./icon-versus-tc_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/varsha.svg": () =>
+            se(() => import("./icon-versus-varsha.js"), [], import.meta.url),
+          "../../assets/icons/versus/varsha_b.svg": () =>
+            se(() => import("./icon-versus-varsha_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/akshaya.svg": () =>
+            se(() => import("./icon-versus-akshaya.js"), [], import.meta.url),
+          "../../assets/icons/versus/akshaya_b.svg": () =>
+            se(() => import("./icon-versus-akshaya_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/gokul.svg": () =>
+            se(() => import("./icon-versus-gokul.js"), [], import.meta.url),
+          "../../assets/icons/versus/gokul_b.svg": () =>
+            se(() => import("./icon-versus-gokul_b.js"), [], import.meta.url),
+          "../../assets/icons/versus/sanjay.svg": () =>
+            se(() => import("./icon-versus-sanjay.js"), [], import.meta.url),
+          "../../assets/icons/versus/sanjay_b.svg": () =>
             se(
-              () => import("./icon-versus-valentinm_b.js"),
+              () => import("./icon-versus-sanjay_b.js"),
               [],
               import.meta.url,
             ),
-          "../../assets/icons/versus/vincents.svg": () =>
-            se(() => import("./icon-versus-vincents.js"), [], import.meta.url),
-          "../../assets/icons/versus/vincents_b.svg": () =>
+          "../../assets/icons/versus/nigash.svg": () =>
+            se(() => import("./icon-versus-nigash.js"), [], import.meta.url),
+          "../../assets/icons/versus/nigash_b.svg": () =>
             se(
-              () => import("./icon-versus-vincents_b.js"),
+              () => import("./icon-versus-nigash_b.js"),
               [],
               import.meta.url,
             ),
@@ -44714,6 +44707,8 @@ const $t = () => ({ SplitText: Zg, gsap: X }),
             se(() => import("./icon-versus-you_b.js"), [], import.meta.url),
           "../../assets/icons/github.svg": () =>
             se(() => import("./icon-github.js"), [], import.meta.url),
+          "../../assets/icons/heart.svg": () =>
+            se(() => import("./icon-heart.js"), [], import.meta.url),
         }),
         s = r,
         i = e,
@@ -45278,18 +45273,24 @@ const $t = () => ({ SplitText: Zg, gsap: X }),
   }),
   fc = _E("app-layout", () => {
     const r = me(!0),
-      e = me(!1);
+      e = me(!1),
+      u = me(!1);
     function t(i) {
       r.value = i;
     }
     function s(i) {
       e.value = i;
     }
+    function c(i) {
+      u.value = i;
+    }
     return {
       isFooterVisible: r,
       setFooterVisible: t,
       isFooterWhite: e,
       setFooterWhite: s,
+      isFooterRevealed: u,
+      setFooterRevealed: c,
     };
   });
 function nr() {
@@ -45384,7 +45385,7 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
   T$ = ["src"],
   v0 = 1,
   A$ = ve({
-    __name: "LogotypeMMP",
+    __name: "LogotypeXOX",
     setup(r) {
       const { gsap: e } = $t(),
         { appState: t } = nr(),
@@ -45489,7 +45490,7 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
                       key: 0,
                       ref_key: "root",
                       ref: a,
-                      href: "https://www.makemepulse.com/",
+                      href: "https://www.nishanth.com/",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       class:
@@ -45836,18 +45837,9 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
           isHover: a,
           visibleTrails: u,
           state: l,
-        } = jl(t),
-        { appState: c } = nr(),
-        h = Ze(c, (d) => d.matches("loading")),
-        f = Ze(c, (d) => d.matches("boot"));
+        } = jl(t);
       return (
-        He(
-          h,
-          () => {
-            !h.value && !f.value && s();
-          },
-          { immediate: !0 },
-        ),
+        s(),
         Ks(i),
         (d, p) => (
           Q(),
@@ -46090,9 +46082,18 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
   B$ = ve({
     __name: "AppLayout",
     setup(r) {
-      const { isFooterVisible: e } = jl(fc()),
+      const D = nr(),
+        { isFooterVisible: e, isFooterRevealed: g } = jl(fc()),
         { isVisible: t } = jl(Es()),
-        { isMobile: s } = Ye();
+        { isMobile: s } = Ye(),
+        { setFooterRevealed: setR } = fc(),
+        y = me(!1);
+      He(
+        Ze(D.appState, (v) => !v.matches("loading") && !v.matches("welcome") && !v.matches("boot")),
+        (v) => {
+          v && setR(!0);
+        },
+      );
       return (i, n) => (
         Q(),
         ce(
@@ -46101,40 +46102,298 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
           [
             ic(i.$slots, "default"),
             ee(IH),
-            z(
-              "div",
-              {
-                class: re([
-                  "absolute z-ui bottom-14 md:bottom-22 lg:bottom-46 w-full flex justify-center pointer-events-none",
-                  { hidden: !U(e) && U(s) },
-                ]),
-              },
-              [
-                ee(ns, {
-                  as: "a",
-                  href: "https://github.com/nish0x",
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  class:
-                    "pointer-events-auto [--ui-btn-radius:32px] lg:[--ui-btn-radius:32px] text-cta-small",
-                  variant: "smaller",
-                  icon: "github",
-                  appear: "",
-                  delay: 0.3,
-                  direction: "right",
-                }, {
-                  default: de(() => [
-                    z("span", null, "nish0x", -1),
-                  ]),
-                  _: 1,
-                }),
-              ],
-              2,
-            ),
+            U(g)
+              ? (Q(),
+                ce(
+                  "div",
+                  {
+                    class: re([
+                      "absolute z-ui bottom-14 md:bottom-22 lg:bottom-46 w-full flex justify-center gap-8 pointer-events-none",
+                      { hidden: !U(e) && U(s) },
+                    ]),
+                  },
+                  [
+                    ee(ns, {
+                      as: "a",
+                      href: "https://github.com/nish0x/xox",
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                      class:
+                        "pointer-events-auto [--ui-btn-radius:32px] lg:[--ui-btn-radius:32px] text-cta-small",
+                      variant: "smaller",
+                      icon: "github",
+                      appear: "",
+                      delay: 0.3,
+                      direction: "right",
+                      onMouseenter: n[2] || (n[2] = (S) => U(xe)("UI_cta-hover")),
+                      onClick: n[3] || (n[3] = (S) => U(xe)("UI_cta")),
+                    }, {
+                      default: de(() => [
+                        z("span", null, "GITHUB", -1),
+                      ]),
+                      _: 1,
+                    }),
+                    ee(ns, {
+                      as: "button",
+                      variant: "smaller",
+                      icon: "heart",
+                      class:
+                        "pointer-events-auto [--ui-btn-radius:32px] lg:[--ui-btn-radius:32px] text-cta-small",
+                      appear: "",
+                      delay: 0.3,
+                      direction: "right",
+                      onMouseenter: n[4] || (n[4] = (S) => U(xe)("UI_cta-hover")),
+                      onClick: n[0] || (n[0] = (S) => (U(xe)("UI_cta"), y.value = !0)),
+                    }, {
+                      default: de(() => [
+                        z("span", null, "Donate", -1),
+                      ]),
+                      _: 1,
+                    }),
+                  ],
+                  2,
+                ))
+              : Se("", !0),
             ee(L$),
             ee(N$),
+            ee(dpq, { visible: U(y), onClose: n[1] || (n[1] = (S) => (y.value = !1)) }, null, 8, ["visible"]),
           ],
           2,
+        )
+      );
+    },
+  }),
+  dpq = ve({
+    __name: "DonatePopin",
+    props: { visible: { type: Boolean } },
+    setup(r, { emit: e }) {
+      const { gsap: t } = $t(),
+        u = me(!1),
+        a = () => {
+          xe("UI_cta");
+        },
+        c = () => {
+          navigator.clipboard &&
+            navigator.clipboard.writeText("nish0x@upi").then(() => {
+              (u.value = !0),
+                setTimeout(() => {
+                  u.value = !1;
+                }, 2000);
+            });
+        },
+        p = () => {
+          e("close");
+        },
+        d = rt("backgroundRef"),
+        f = rt("cardRef"),
+        m = rt("cardBackgroundRef"),
+        v = rt("cardInnerRef"),
+        g = (y, x) => {
+          const w = t.timeline({ onComplete: x });
+          (w.fromTo(
+            d.value,
+            { opacity: 0 },
+            { opacity: 1, duration: 0.3, ease: "none" },
+            0,
+          ),
+            w.from(
+              f.value,
+              {
+                rotate: 12,
+                yPercent: 33,
+                clearProps: "rotate,yPercent",
+                duration: 0.7,
+                ease: "back.out",
+              },
+              0,
+            ),
+            w.fromTo(
+              m.value,
+              { clipPath: "circle(0% at 50% 120%)" },
+              {
+                clipPath: "circle(75% at 50% 50%)",
+                duration: 0.7,
+                ease: "power3.out",
+              },
+              0,
+            ),
+            w.fromTo(
+              v.value,
+              { opacity: 0 },
+              { opacity: 1, duration: 0.3, ease: "none" },
+              0.4,
+            ));
+        },
+        h = (y, x) => {
+          const w = t.timeline({ onComplete: x }),
+            E = t.utils.selector(y);
+          (w.to(
+            E(".DonatePopin__Card"),
+            { rotate: 12, yPercent: 33, duration: 0.5, ease: "back.in" },
+            0,
+          ),
+            w.to(
+              E(".DonatePopin__Card"),
+              { opacity: 0, duration: 0.3, ease: "none" },
+              "-=0.3",
+            ),
+            w.to(
+              E(".DonatePopin__Background"),
+              { opacity: 0, duration: 0.3, ease: "none" },
+              "-=0.3",
+            ));
+        };
+      return (y, x) => (
+        Q(),
+        ye(
+          Fr,
+          { css: !1, onEnter: g, onLeave: h },
+          {
+            default: de(() => [
+              r.visible
+                ? (Q(),
+                  ce("div", {
+                    class:
+                      "DonatePopin fixed inset-0 z-popin grid *:col-start-1 *:row-start-1 place-items-center select-none",
+                  }, [
+                    z(
+                      "div",
+                      {
+                        ref: "backgroundRef",
+                        class:
+                          "DonatePopin__Background bg-blue-dark/85 w-full h-full",
+                        onClick: x[3] || (x[3] = (E) => (a(), p())),
+                      },
+                      null,
+                      512,
+                    ),
+                    z(
+                      "div",
+                      {
+                        class:
+                          "relative px-20 w-full flex justify-center pointer-events-none",
+                      },
+                      [
+                        z(
+                          "div",
+                          {
+                            ref: "cardRef",
+                            class:
+                              "DonatePopin__Card relative w-full max-w-338 lg:max-w-595 text-white -rotate-2 lg:-rotate-3 pointer-events-auto",
+                          },
+                          [
+                            z(
+                              "div",
+                              {
+                                ref: "cardBackgroundRef",
+                                class:
+                                  "absolute inset-0 bg-pink rounded-[32px]",
+                              },
+                              null,
+                              512,
+                            ),
+                            z(
+                              "div",
+                              {
+                                ref: "cardInnerRef",
+                                class:
+                                  "relative w-full lg:min-h-200 p-20 lg:p-30",
+                              },
+                              [
+                                z("div", { class: "flex items-center justify-between gap-8" }, [
+                                  z(
+                                    "h2",
+                                    {
+                                      class:
+                                        "DonatePopin__Title text-mobile-h4 lg:text-h4 text-center lg:text-left",
+                                    },
+                                    "Support the work",
+                                    -1,
+                                  ),
+ee(ns, {
+                                    icon: "cross",
+                                    variant: "tiny",
+                                    class: "DonatePopin__Close DonatePopin__CloseInline",
+                                    "label-class": "hidden",
+                                    onMouseenter: x[5] || (x[5] = (E) => U(xe)("UI_cta-hover")),
+                                    onClick: x[1] || (x[1] = (E) => (a(), p())),
+                                  }),
+                                ]),
+                                z(
+                                  "div",
+                                  {
+                                    class:
+                                      "absolute top-20 right-20 lg:top-30 lg:right-30 DonatePopin__CloseCorner",
+                                  },
+                                  [
+                                    ee(ns, {
+                                      icon: "cross",
+                                      variant: "tiny",
+                                      class: "DonatePopin__Close",
+                                      "label-class": "hidden",
+                                      onMouseenter: x[6] || (x[6] = (E) => U(xe)("UI_cta-hover")),
+                                      onClick: x[2] || (x[2] = (E) => (a(), p())),
+                                    }),
+                                  ],
+                                ),
+                                z("div", { class: "DonatePopin__Spacing flex justify-center" }, [
+                                  ee(ns, {
+                                    as: "button",
+                                    variant: "smaller",
+                                    icon: U(u) ? "check" : "copy",
+                                    iconPosition: "right",
+                                    style: U(u)
+                                      ? { "--ui-btn-icon-color": "var(--color-green-light)" }
+                                      : void 0,
+                                    class:
+                                      "pointer-events-auto w-full DonatePopin__Pill text-cta-small",
+                                    onMouseenter: x[4] || (x[4] = (E) => U(xe)("UI_cta-hover")),
+                                    onClick: x[0] || (x[0] = (E) => (a(), c())),
+                                  }, {
+                                    default: de(() => [
+                                      z("span", null, "nish0x@upi", -1),
+                                    ]),
+                                    _: 1,
+                                  }),
+                                ]),
+                                z("div", { class: "mt-24 flex justify-center" }, [
+                                  ee(ns, {
+                                    as: "a",
+                                    href: "https://buymeacoffee.com/nish0x",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    variant: "smaller",
+                                    icon: "coffee",
+                                    iconPosition: "right",
+                                    class:
+                                      "pointer-events-auto w-full DonatePopin__Pill text-cta-small",
+                                    onMouseenter: x[8] || (x[8] = (E) => U(xe)("UI_cta-hover")),
+                                    onClick: x[7] || (x[7] = (E) => (a(), !0)),
+                                  }, {
+                                    default: de(() => [
+                                      z(
+                                        "span",
+                                        null,
+                                        "Buy Me a Coffee",
+                                        -1,
+                                      ),
+                                    ]),
+                                    _: 1,
+                                  }),
+                                ]),
+                              ],
+                              512,
+                            ),
+                          ],
+                          512,
+                        ),
+                      ],
+                    ),
+                  ]))
+                : Se("", !0),
+            ]),
+            _: 1,
+          },
         )
       );
     },
@@ -46270,7 +46529,7 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
             ref: t,
             onClick: h[0] || (h[0] = (f) => c.$emit("click")),
             class: re([
-              "UIButton group/btn group/label relative text-blue select-none flex items-center gap-8 cursor-none",
+              "UIButton group/btn group/label relative text-blue select-none flex items-center justify-center gap-8 cursor-none",
               {
                 "px-32 pt-29 pb-28": r.variant === "big",
                 "px-48 py-20": r.variant === "default",
@@ -46415,6 +46674,7 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
         { t } = as(),
         { gsap: s, SplitText: i } = $t(),
         { isDesktop: n } = Ye(),
+        { setFooterRevealed: revealFooter } = fc(),
         o = rt("heading"),
         a = rt("description"),
         u = me(!1),
@@ -46448,7 +46708,7 @@ const PH = "" + new URL("../images/pulse-0.png", import.meta.url).href,
                     _.value.play(),
                     (u.value = !0),
                     s.timeline({ delay: 1.3 }).add(() => {
-                      l.value = !0;
+                      (l.value = !0, revealFooter(!0));
                     }));
                 }));
         },
@@ -48636,29 +48896,40 @@ const mV = ve({
                       ]),
                     },
                     [
-                      ee(
-                        Rt,
+                      z(
+                        "div",
                         {
-                          name: `versus/${r.name}_b`,
                           class:
                             "Text__Part relative z-1 Text__Background !w-auto !h-auto text-fushia-light block",
+                          style: {
+                            fontFamily: "var(--font-bangers)",
+                            textTransform: "uppercase",
+                            transform: "translate(2px, 3px)",
+                            fontSize: "48px",
+                            lineHeight: 1,
+                            paddingLeft: r.direction === "right" ? "14px" : 0,
+                            paddingRight: r.direction === "left" ? "24px" : 0,
+                          },
                         },
-                        null,
-                        8,
-                        ["name"],
+                        r.name.toUpperCase(),
                       ),
-                      ee(
-                        Rt,
+                      z(
+                        "div",
                         {
-                          name: `versus/${r.name}`,
                           class: re([
                             "Text__Part relative z-2 !w-auto !h-auto block",
                             r.color,
                           ]),
+                          style: {
+                            fontFamily: "var(--font-bangers)",
+                            textTransform: "uppercase",
+                            fontSize: "48px",
+                            lineHeight: 1,
+                            paddingLeft: r.direction === "right" ? "14px" : 0,
+                            paddingRight: r.direction === "left" ? "24px" : 0,
+                          },
                         },
-                        null,
-                        8,
-                        ["name", "class"],
+                        r.name.toUpperCase(),
                       ),
                     ],
                     2,
@@ -48892,56 +49163,6 @@ const mV = ve({
       );
     },
   }),
-  UV = { class: "relative" },
-  HV = ve({
-    __name: "ResultShareButton",
-    props: { appear: { type: Boolean }, delay: {} },
-    setup(r) {
-      const { t: e } = as(),
-        { isDesktop: t } = Ye(),
-        s = rt("message"),
-        i = () => {
-          var n;
-          (xe("UI_cta"),
-            t.value || !navigator.share
-              ? (navigator.clipboard.writeText(window.location.href),
-                (n = s.value) == null || n.show())
-              : navigator
-                  .share({ title: document.title, url: window.location.href })
-                  .catch((o) => console.error("Error sharing:", o)));
-        };
-      return (n, o) => (
-        Q(),
-        ce("div", UV, [
-          ee(
-            ns,
-            {
-              onClick: i,
-              onMouseenter: o[0] || (o[0] = (a) => U(xe)("UI_cta-hover")),
-              class: "[--ui-btn-radius:32px] text-cta-small",
-              variant: "thin",
-              icon: "share",
-              appear: r.appear,
-              delay: r.delay,
-            },
-            {
-              default: de(() => [z("span", null, Qe(U(e)("result.share")), 1)]),
-              _: 1,
-            },
-            8,
-            ["appear", "delay"],
-          ),
-          ee(
-            BV,
-            { text: U(e)("result.link-copied"), ref_key: "message", ref: s },
-            null,
-            8,
-            ["text"],
-          ),
-        ])
-      );
-    },
-  }),
   $V = ve({
     __name: "ResultDownloadButton",
     setup(r) {
@@ -49099,7 +49320,6 @@ const mV = ve({
             ),
           ]),
           z("div", XV, [
-            ee(HV, { appear: "", delay: 0.6 }),
             ee($V, { appear: "", delay: 0.7 }),
           ]),
         ])
@@ -54165,7 +54385,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 function Tq() {
   console.log(
-    "%cMMP ⦾⦾⦿",
+    "%cXOX ⦾⦾⦿",
     "color: #333232ff; background: linear-gradient(90deg,rgba(84, 137, 201, 1) 0%, rgba(136, 174, 207, 1) 25%, rgba(230, 119, 228, 1) 50%, rgba(204, 232, 165, 1) 75%, rgba(127, 198, 226, 1) 100%); padding:2px 5px; font-weight: bold; font-size: 18px;",
   );
 }
