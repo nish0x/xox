@@ -4,10 +4,6 @@
 
 <br>
 
-# <b>XOX</b>
-
-<br>
-
 <a href="https://playxox.onrender.com" target="_blank"><img src="https://img.shields.io/badge/PLAY-NOW-ff4444?style=for-the-badge&logo=playstation&logoColor=white" alt="Play"></a>
 <a href="https://buymeacoffee.com/nish0x" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
